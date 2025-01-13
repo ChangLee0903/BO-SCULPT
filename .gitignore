@@ -7,6 +7,12 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+exp_bayesmark/logs*
+exp_bayesmark/results_*
+exp_case_1/logs*
+exp_case_1/results_*
+exp_case_2/logs*
+exp_case_2/results_*
 .Python
 build/
 develop-eggs/
