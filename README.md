@@ -26,7 +26,7 @@ conda deactivate
 conda activate llambo
 ```
 
-5. Install requirements:
+4. Install requirements:
 ```
 pip install -r requirements.txt
 ```
