@@ -39,4 +39,4 @@ To reproduce results, execute any of the shell experimental shell scripts:
 - To run benchmark: ```run_benchmark.sh [METHOD]```
 - To run Case I: ```run_case_1.sh [METHOD]```
 - To run Case II: ```run_case_2.sh [METHOD]```
-[METHOD] can be: LLAMBO-WOS, LLAMBO-WIS, GP, BO-SCULPT, BO-SCULPT-WOF
+[METHOD] can be: ```LLAMBO-WOS```, ```LLAMBO-WIS```, ```GP```, ```BO-SCULPT```, and ```BO-SCULPT-WOF```
