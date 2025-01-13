@@ -8,11 +8,11 @@ __pycache__/
 
 # Distribution / packaging
 exp_bayesmark/logs*
-exp_bayesmark/results_*
-exp_case_1/logs*
-exp_case_1/results_*
-exp_case_2/logs*
-exp_case_2/results_*
+exp_bayesmark/results_discriminative/*.csv
+exp_case_I/logs*
+exp_case_I/results_discriminative/*.csv
+exp_case_II/logs*
+exp_case_II/results_discriminative/*.csv
 .Python
 build/
 develop-eggs/
